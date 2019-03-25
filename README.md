@@ -1,0 +1,1 @@
+Reg file to import to win registry. Solve the blank-page-problem in Jupyter Notebook 5.7.6 with incorrect js Content-type
